@@ -261,7 +261,7 @@ nav ul li:hover a {
     border-top-right-radius: 10px;
     margin-bottom: 10px;
     width: 100%;
-    height: 180px;
+    height: auto;
     background-size: cover;
     background-position-x: center;
     background-position-y: center;
